@@ -28,7 +28,7 @@ function validadeProjectId(request, response, next) {
   }
 
   return next();
-};
+}
 
 // end midlewares
 
